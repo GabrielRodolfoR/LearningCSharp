@@ -6,7 +6,8 @@ public class Program
         // Syntax.Start();
         // Calculator.Equals();
         // IsOdd.Odd();
-        // AtribuitionsOperator.Atribuition();
-        RelationalOperators.Relational();
+        // Op.Atribuition();
+        // Op.Relational();
+        FilesCreator.FileManager();
     }
 }
