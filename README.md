@@ -1,11 +1,11 @@
 # LearningCSharp
 
-Exercícios, anotações e pequenos projetos desenvolvidos durante meu aprendizado do curso de C# e .NET 8 oferecido pelo canal [Antonio Rocha Dev](https://www.youtube.com/@AntonioRochaDev).
+Exercícios, anotações e pequenos projetos desenvolvidos durante meu aprendizado no curso [WEX End-to-End Engineering](https://web.dio.me/track/wex-end-end-engineering).
 
 ## Estrutura
 
-- `ConsoleApps/` Arquivos simples com funcionalidades via console para o entendimento básico da linguagem
-- `Projects/` Pequenos projetos envolvedo algumas interações um pouco mais aprofundada da linguagem]
+- `Models/` Modelos de código utilizados para estudo e prática dos conceitos abordados no curso.
+
 
 ## Requisitos
 - .NET SDK 8.0 ou superior instalado em sua máquina.
