@@ -2,6 +2,9 @@ namespace Fundamentos.Models
 {
     public class Pessoa
     {
+        /// <summary>
+        /// Representa uma Pessoa Física
+        /// </summary>
         public string Name { get; set; } = String.Empty;
         public int Age { get; set; }
 

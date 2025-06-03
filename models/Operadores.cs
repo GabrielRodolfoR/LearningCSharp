@@ -2,8 +2,11 @@ namespace Operators.models
 {
     public class Operadores
     {
+        /// <summary>
+        /// Varias Formas de se usar Operadores de Atribuição
+        /// </summary>
         public void Atribuicao()
-        { 
+        {
             /*
             string a = "15";
             int b = 0;
