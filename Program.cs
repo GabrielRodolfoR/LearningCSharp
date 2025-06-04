@@ -4,11 +4,20 @@ using Calculator.models;
 using Incrementar.models;
 using Lacos.models;
 using CadastroClientes.models;
+using ArrayListas.models;
 
 public class Program
 {
     public static void Main(string[] args)
     {
+        Listas novaLista = new Listas();
+        novaLista.ListaForEach();
+
+        /*
+        novaLista.ArrayForEach();
+        novaLista.ArrayInteiro();
+
+        /*
         Menu clientes = new Menu();
         clientes.MenuInterativo();
 
