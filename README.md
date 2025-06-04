@@ -4,17 +4,20 @@ Exercícios, anotações e pequenos projetos desenvolvidos durante meu aprendiza
 
 ## Estrutura
 
-- `Models/` Modelos de código utilizados para estudo e prática dos conceitos abordados no curso.
-
+- [01 - Sintaxe Básica](./01-Sintaxe-Basica/)
+- [02 - Dados e Listas](./02-Dados-e-Listas/)
+- [03 - Programação Orientada a Objetos](./03-Programacao-Orientada-a-Objetos/)
 
 ## Requisitos
+
 - .NET SDK 8.0 ou superior instalado em sua máquina.
 - Um editor de código compatível, como Visual Studio Code ou Visual Studio 2022.
 - Abra o arquivo Program.cs e rode ele ou utilize o comando:
-  
+
   ```bash
   dotnet run
   ```
+
 ## Tecnologias Utilizadas
 
 - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)

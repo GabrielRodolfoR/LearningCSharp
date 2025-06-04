@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Gabriel\\Cursos\\LearningCSharp\\LearningCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Gabriel\\Cursos\\CSharp\\LearningCSharp\\Sintaxe-Basica\\LearningCSharp.csproj",
       "projectName": "LearningCSharp",
-      "projectPath": "C:\\Users\\Usuario\\Documents\\Gabriel\\Cursos\\LearningCSharp\\LearningCSharp.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Documents\\Gabriel\\Cursos\\CSharp\\LearningCSharp\\Sintaxe-Basica\\LearningCSharp.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Documents\\Gabriel\\Cursos\\LearningCSharp\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Documents\\Gabriel\\Cursos\\CSharp\\LearningCSharp\\Sintaxe-Basica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

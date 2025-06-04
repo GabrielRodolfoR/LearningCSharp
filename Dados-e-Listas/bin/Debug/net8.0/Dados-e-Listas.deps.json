@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dados-e-Listas/1.0.0": {
+        "runtime": {
+          "Dados-e-Listas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dados-e-Listas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
