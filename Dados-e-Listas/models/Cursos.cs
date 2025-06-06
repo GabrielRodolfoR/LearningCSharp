@@ -1,0 +1,34 @@
+using ExploreExample.models;
+
+namespace Courses.models
+{
+    public class Cursos
+    {
+        public string Nome { get; set; }
+        public List<Pessoa> Alunos { get; set; }
+
+        public void AdicionarAluno(Pessoa aluno)
+        {
+            Alunos.Add(aluno);
+        }
+
+        public int QuantidadeMatriculado()
+        {
+            int quantidade = Alunos.Count;
+            return quantidade;
+        }
+
+        public void RemoverAluno(Pessoa aluno)
+        {
+            Alunos.Remove(aluno);
+        }
+
+        public void ListarAlunos()
+        {
+            foreach (Pessoa aluno in Alunos)
+            {
+                Console.WriteLine(aluno.NomeCompleto);
+            }
+        }
+    }
+}
