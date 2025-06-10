@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.sourcelink.json
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\bin\Debug\net8.0\POO-com-DotNet.exe
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\bin\Debug\net8.0\POO-com-DotNet.deps.json
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\bin\Debug\net8.0\POO-com-DotNet.runtimeconfig.json
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\bin\Debug\net8.0\POO-com-DotNet.dll
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\bin\Debug\net8.0\POO-com-DotNet.pdb
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.dll
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\refint\POO-com-DotNet.dll
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.pdb
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\POO-com-DotNet.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Gabriel\Cursos\CSharp\LearningCSharp\POO-com-DotNet\obj\Debug\net8.0\ref\POO-com-DotNet.dll
