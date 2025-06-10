@@ -4,9 +4,9 @@ Exercícios, anotações e pequenos projetos desenvolvidos durante meu aprendiza
 
 ## Estrutura
 
-- [01 - Sintaxe Básica](./01-Sintaxe-Basica/)
-- [02 - Dados e Listas](./02-Dados-e-Listas/)
-- [03 - Programação Orientada a Objetos](./03-Programacao-Orientada-a-Objetos/)
+- [01 - Sintaxe Básica](./Sintaxe-Basica/)
+- [02 - Dados e Listas](./Dados-e-Listas/)
+- [03 - Programação Orientada a Objetos](./POO-com-DotNet/)
 
 ## Requisitos
 
